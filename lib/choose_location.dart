@@ -15,14 +15,12 @@ class _LocationState extends State<Location> {
 @override
   void initState() {
     super.initState();
-    print('hello init state');
   }
 
   int counter = 0;
 
   @override
   Widget build(BuildContext context) {
-    print('hello build state');
     return Scaffold(
       appBar: AppBar(
         title: const Text('choose location'),
