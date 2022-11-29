@@ -1,6 +1,4 @@
 
-![2426924477_d181477867](https://user-images.githubusercontent.com/93039426/204499139-58f0166a-2b08-470e-9d68-88c6371bfac9.jpg)
-
 # app_four
 
 A new Flutter project.
